@@ -1,1 +1,1 @@
-# .github
+Clever Soft s.r.o.
